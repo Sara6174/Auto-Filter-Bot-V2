@@ -8,12 +8,12 @@
 </p>
 <p align="center">
   <a href="https://github.com/Sara6174/Auto-Filter-Bot-V2/stargazers">
-    <img src="https://img.shields.io/github/stars/TroJanzHEX/Auto-Filter-Bot-V2?style=social">
+    <img src="https://img.shields.io/github/stars/Sara6174/Auto-Filter-Bot-V2?style=social">
 
   </a>
   
   <a href="https://github.com/Sara6174/Auto-Filter-Bot-V2/fork">
-    <img src="https://img.shields.io/github/forks/TroJanzHEX/Auto-Filter-Bot-V2?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/Sara6174/Auto-Filter-Bot-V2?label=Fork&style=social">
 
   </a>  
 </p>
@@ -75,7 +75,7 @@ Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/TroJanzHEX/Auto-Filter-Bot-V2
+git clone https://github.com/Sara6174/Auto-Filter-Bot-V2
 cd Auto-Filter-Bot-V2
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
